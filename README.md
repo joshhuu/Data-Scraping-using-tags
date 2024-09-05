@@ -1,5 +1,16 @@
 Scraping a products data using the products' url on shoppify based Websites
 
+
+
+
+
+
+
+
+
+
+
+
 STEPS TO RUN THE CODE
 1.Clone the repository or run it in colab
 2.If it is VS CODE download the required packages (BEAUTIFULSOUP4)
