@@ -76,8 +76,8 @@ def fetch_product_data(url):
     # If JSON-LD is not available, fetch product data from meta tags
     return fetch_product_data_from_meta(soup)
 
-# URL of the product page
-product_url = "https://www.hiketron.com/collections/scent-free-laundry-detergents/products/clear-powerful-laundry-detergent"
+#Replace product url here 
+product_url = "product_url_here"
 
 # Fetch product data
 product_data = fetch_product_data(product_url)
